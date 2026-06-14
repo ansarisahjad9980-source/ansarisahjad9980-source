@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👨‍💻 Sahjad Ansari
 
-<!--
-**ansarisahjad9980-source/ansarisahjad9980-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+> Initializing profile...
+> Access Granted ✅
+```
 
-Here are some ideas to get you started:
+## 🛡️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 BSc CSIT Student
+🔐 Cybersecurity Enthusiast
+💻 Learning Ethical Hacking & Network Security
+🌱 Currently improving Python, Linux, and Database Skills
+🚀 Goal: Become a Cybersecurity Professional
+
+---
+
+## ⚡ Skills
+
+```text
+💻 Programming : Python, C, C++
+🗄️ Database    : MySQL
+🐧 OS          : Linux, Windows
+🔒 Security    : Networking, Ethical Hacking
+🌐 Web         : HTML, CSS
+```
+
+---
+
+## 📚 Currently Learning
+
+* Penetration Testing
+* Network Security
+* Linux Administration
+* Python for Cybersecurity
+* Web Application Security
+
+---
+
+## 🎯 Mission
+
+"Think like an attacker. Defend like a professional."
+
+---
+
+## 📫 Connect With Me
+
+GitHub: github.com/ansarisahjad9980-source
+
+```bash
+root@cybersecurity:~$ whoami
+Sahjad Ansari
+```
