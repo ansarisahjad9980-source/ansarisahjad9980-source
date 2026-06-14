@@ -1,53 +1,103 @@
+# <div align="center">
+
+<img src="./git123.png" width="100%" alt="Cyber Security Banner"/>
+
 # 👨‍💻 Sahjad Ansari
 
-```bash
-> Initializing profile...
-> Access Granted ✅
-```
+### 🔐 Cybersecurity Enthusiast | BSc CSIT Student | Future Security Analyst
 
-## 🛡️ About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Cybersecurity+Learner;BSc+CSIT+Student;Linux+%7C+Python+%7C+Networking;Stay+Curious+Stay+Secure" />
+</p>
 
-🎓 BSc CSIT Student
-🔐 Cybersecurity Enthusiast
-💻 Learning Ethical Hacking & Network Security
-🌱 Currently improving Python, Linux, and Database Skills
-🚀 Goal: Become a Cybersecurity Professional
+</div>
 
 ---
 
-## ⚡ Skills
+## 🚀 About Me
+
+```bash
+root@cybersecurity:~$ whoami
+
+Name      : Sahjad Ansari
+Education : BSc CSIT
+Interest  : Cyber Security
+Location  : Nepal
+Status    : Learning Every Day
+```
+
+* 🔐 Passionate about Cyber Security
+* 🐧 Linux Enthusiast
+* 💻 Learning Python & Networking
+* 📚 Exploring Ethical Hacking
+* 🎯 Goal: Become a Cyber Security Professional
+
+---
+
+## 🛠️ Tech Stack
 
 ```text
-💻 Programming : Python, C, C++
-🗄️ Database    : MySQL
-🐧 OS          : Linux, Windows
-🔒 Security    : Networking, Ethical Hacking
-🌐 Web         : HTML, CSS
+Programming : Python, C, C++
+Database    : MySQL
+Operating   : Linux, Windows
+Security    : Networking, Ethical Hacking
+Tools       : Git, GitHub, VS Code
 ```
 
 ---
 
-## 📚 Currently Learning
+## 📖 Currently Learning
 
-* Penetration Testing
-* Network Security
-* Linux Administration
-* Python for Cybersecurity
 * Web Application Security
+* Linux Administration
+* Network Security
+* Python for Cybersecurity
+* Penetration Testing
+* Database Security
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
 
 ---
 
 ## 🎯 Mission
 
-"Think like an attacker. Defend like a professional."
+```bash
+Think Like An Attacker.
+Defend Like A Professional.
+```
+
+---
+
+## ☕ Fun Fact
+
+```bash
+while(alive){
+    learn();
+    practice();
+    improve();
+}
+```
 
 ---
 
 ## 📫 Connect With Me
 
-GitHub: github.com/ansarisahjad9980-source
+* GitHub: https://github.com/ansarisahjad9980-source
 
-```bash
-root@cybersecurity:~$ whoami
-Sahjad Ansari
-```
+
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+⚡ Stay Curious • Stay Secure ⚡
+</p>
